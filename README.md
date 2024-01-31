@@ -1,5 +1,5 @@
 # Secured_Health_Record_System
-Secured Health Record System Built Using Netbeans & Java
+Secured Health Record System Built Using Netbeans & Java - Security (SHA1 Algorithm)
 
 This project provides a secured interface for the confidential information present in Electronic Health Record (EHR) which are vital and requires maximum security. An
 Electronic Health Record (EHR) is an electronic version of a patient’s medical history, that is maintained by the provider over time, and may include all of the key
