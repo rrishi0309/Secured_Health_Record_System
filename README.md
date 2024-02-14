@@ -8,7 +8,7 @@ history, immunizations, laboratory data and radiology reports   The EHR automa
 EHR also has the ability to support other care-related activities directly or indirectly through various interfaces, including evidence-based decision support, quality
 management, and outcomes reporting.
 
-The EHR system in this project is secured using SHA1 algorithm which involves unique “SALT KEY” for every encryption of data. In cryptography, a salt is random data that is used as an additional input to a one-way function that "hashes" data, a password or passphrase. Salts are closely related to the concept of nonce. The primary function of salts is to defend against dictionary attacks or against its hashed equivalent, a pre-computed rainbow table attack.
+The EHR system in this project is secured using SHA3 algorithm which involves unique “SALT KEY” for every encryption of data. In cryptography, a salt is random data that is used as an additional input to a one-way function that "hashes" data, a password or passphrase. Salts are closely related to the concept of nonce. The primary function of salts is to defend against dictionary attacks or against its hashed equivalent, a pre-computed rainbow table attack.
 
 Salts are used to safeguard passwords in storage. Historically a password was stored in plaintext on a system, but over time additional safeguards developed to protect a user's password against being read from the system. A salt is one of those methods.
 
